@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <p align="center">Estudante de Programação, C#, Java, Javascript; .NET, SQL 💻</p>
+  <h3 align="center">Estudante de Programação, C#, Java, Javascript; .NET, SQL 💻</h3>
 </div>
 <div align="center">
   <a href="https://github.com/yanca-albuquerque">
@@ -24,5 +24,3 @@
   <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href ="mailto:yanca.albuquerquee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
- 
