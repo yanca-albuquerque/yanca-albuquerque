@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <p align="center">💻 Estou estudando Programação, C#, Java, Javascript; .NET, SQL!</p>
+  <p align="center">Estudante de Programação, C#, Java, Javascript; .NET, SQL 💻</p>
 </div>
 <div align="center">
   <a href="https://github.com/yanca-albuquerque">
