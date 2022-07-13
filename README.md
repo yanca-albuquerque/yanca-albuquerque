@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Olá! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
   <h3 align="center">Graduanda em Análise e Desenvolvimento de Sistemas</h3>
+  <h3 align="center">Juntando a Contabilidade com a Programação.</h3>
   <h3 align="center">Estudando Programação Back-end, C#, Java, Python, SQL 💻</h3>
 </div>
 <div align="center">
