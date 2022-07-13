@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Olá! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <h3 align="center">Estudante de Programação, C#, Python, SQL 💻</h3>
+  <h3 align="center">Graduanda em Análise e Desenvolvimento de Sistemas</h3>
+  <h3 align="center">Estudando Programação Back-end, C#, Java, Python, SQL 💻</h3>
 </div>
 <div align="center">
   <a href="https://github.com/yanca-albuquerque">
@@ -9,10 +10,10 @@
 </div>
 
 <div align="center" valign="top"><br>
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
 </div>
