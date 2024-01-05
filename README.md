@@ -3,7 +3,7 @@
   
 ## Bem vindos!
 
-* Cientista de Dados
+* Analista de Dados
 
   Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Bacharel em Ciências Contábeis, Tecnólogo em Gestão Financeira e Tecnólogo em Análise e Desenvolvimento de Sistemas pela UCB - Universidade Católica de Brasília.</h3>
   
