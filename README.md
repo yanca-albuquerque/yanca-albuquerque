@@ -1,17 +1,36 @@
 <div>
   <h1 align="center">Olá! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <h3 align="center">Graduanda em Análise e Desenvolvimento de Sistemas</h3>
-  <h3 align="center">Juntando a Contabilidade com a Programação.</h3>
-  <h3 align="center">Estudando Programação Back-end: C# e Python 💻</h3>
+  
+## Bem vindos!
+
+* Cientista de Dados
+
+  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Bacharel em Ciências Contábeis, Tecnólogo em Gestão Financeira e Tecnólogo em Análise e Desenvolvimento de Sistemas pela UCB - Universidade Católica de Brasília.</h3>
+  
 </div>
 <div align="center">
   <a href="https://github.com/yanca-albuquerque">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yanca-albuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
 </div>
+    
+## Conhecimentos avançados em:
+- **Excel**
+- **Power BI**
 
+## Conhecimentos intermediários em:
+- **CSS3**
+- **Google Analytics**
+- **Html**
+- **Looker Studio**
+- **Python**
+- **MySQL**
 
-</div>
+## Conhecimentos básicos em:
+- **C#**
+- **Google Ads**
+- **Javascript**
+- **Java**
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -30,3 +49,4 @@
   <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href ="mailto:yanca.albuquerquee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+
