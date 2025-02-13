@@ -11,12 +11,18 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yanca-albuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
 </div>
-    
-## Conhecimentos avançados em:
+
+## 🔍 Projetos em Destaque:
+- [Dashboard de Controle de Estoque no Power BI](#) - Análise ABC com foco nos produtos Classe A.
+- [Sistema de Cadastro com Excel Online e Office Scripts](#) - Solução para consulta e cadastro de clientes e agências.
+- [Análise Financeira com Python e SQL](#) - Estudo de caso de otimização de custos e previsão de receitas.
+
+## 🌟 Habilidades:
+### Avançados em:
 - **Excel**
 - **Power BI**
 
-## Conhecimentos intermediários em:
+### Intermediários em:
 - **CSS3**
 - **Google Analytics**
 - **Html**
@@ -24,7 +30,7 @@
 - **Python**
 - **MySQL**
 
-## Conhecimentos básicos em:
+### Básicos em:
 - **C#**
 - **Google Ads**
 - **Javascript**
@@ -41,7 +47,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Contatos:</h2>
+  <h2 align="center">📞 Contatos:</h2>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
