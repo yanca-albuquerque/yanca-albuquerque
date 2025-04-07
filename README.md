@@ -3,7 +3,7 @@
   
 ## Bem vindos!
 
-  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Bacharel em Ciências Contábeis e Tecnólogo em Análise e Desenvolvimento de Sistemas pela UCB - Universidade Católica de Brasília.</h3>
+  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciências Contábeis pela UCB - Universidade Católica de Brasília.</h3>
   
 </div>
 <div align="center">
@@ -12,38 +12,35 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🔍 Projetos em Destaque:
-- [Dashboard de Controle de Estoque no Power BI](#) - Análise ABC com foco nos produtos Classe A.
-- [Sistema de Cadastro com Excel Online e Office Scripts](#) - Solução para consulta e cadastro de clientes e agências.
-- [Análise Financeira com Python e SQL](#) - Estudo de caso de otimização de custos e previsão de receitas.
-
 ## 🌟 Habilidades:
 ### Avançados em:
 - **Excel**
 - **Power BI**
 
 ### Intermediários em:
-- **CSS3**
 - **Google Analytics**
 - **Html**
 - **Looker Studio**
 - **Python**
-- **MySQL**
+- **SQL**
 
 ### Básicos em:
 - **C#**
 - **Google Ads**
 - **Javascript**
 - **Java**
+- **CSS3**
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
 </div>
 
 <div align="center">
