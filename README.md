@@ -33,7 +33,7 @@
 
 ### Certificação em:
 - **SCRUM - CertiProf**
-- 
+  
 <div align="center">
   <h2 align="center">Tecnologias 💻</h2>
 </div>
