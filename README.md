@@ -3,7 +3,8 @@
   
 ## Bem vindos!
 
-  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciências Contábeis pela UCB - Universidade Católica de Brasília.</h3>
+  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciências Contábeis pela UCB - Universidade Católica de Brasília.
+  Atualmente curso Extensão em Análise de Dados, na UFMA - Universidade Federal do Maranhão.</h3>
   
 </div>
 <div align="center">
@@ -33,6 +34,7 @@
 
 ### Certificação em:
 - **SCRUM - CertiProf**
+- **White Belt - FM2S**
   
 <div align="center">
   <h2 align="center">Tecnologias 💻</h2>
