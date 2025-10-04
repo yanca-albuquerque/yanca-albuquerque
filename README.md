@@ -35,6 +35,7 @@
 ### Certificação em:
 - **SCRUM - CertiProf**
 - **White Belt - FM2S**
+- **Yellow Belt - FM2S**
   
 <div align="center">
   <h2 align="center">Tecnologias 💻</h2>
