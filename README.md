@@ -3,8 +3,8 @@
   
 ## Bem vindos!
 
-  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Possuo Tecnólogo em Análise e Desenvolvimento de Sistemas e Bacharel em Ciências Contábeis pela UCB - Universidade Católica de Brasília.
-  Atualmente curso Extensão em Análise de Dados, na UFMA - Universidade Federal do Maranhão.</h3>
+  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Sou Formada em Análise e Desenvolvimento de Sistemas pela UCB - Universidade Católica de Brasília.
+  Atualmente curso Bacharelado em Engenharia de Software pela UCB - Universidade Católica de Brasília e faço Extensão em Análise de Dados, na UFMA - Universidade Federal do Maranhão.</h3>
   
 </div>
 <div align="center">
