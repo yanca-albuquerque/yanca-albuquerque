@@ -48,14 +48,6 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
   </tr>
 </table>
 
-### Certificação em:
-- **SCRUM - CertiProf**
-- **White Belt - FM2S**
-- **Yellow Belt - FM2S**
-  
-<div align="center">
-  <h2 align="center">Tecnologias 💻</h2>
-</div>
 <div align="center" valign="top"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -68,6 +60,11 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
   <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
 </div>
 
+### Certificação em:
+- **SCRUM - CertiProf**
+- **White Belt - FM2S**
+- **Yellow Belt - FM2S**
+  
 <div align="center">
   <h2 align="center">Para orçamentos, dúvidas ou sugestões, entre em contato 📞</h2>
 </div>
