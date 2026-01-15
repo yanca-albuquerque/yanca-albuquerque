@@ -1,36 +1,52 @@
 <div>
   <h1 align="center">Hey! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
+  <strong>Data Analyst | Aspirante a AI Engineer | Estudante de Engenharia de Software</strong>
+</div>
   
 ## Bem vindos!
 
-  Sou pós-graduada em Auditoria Fiscal pela UNIMAIS. Sou Formada em Análise e Desenvolvimento de Sistemas pela UCB - Universidade Católica de Brasília, com Extensão em Análise de Dados, na UFMA - Universidade Federal do Maranhão.
-  Atualmente curso Bacharelado em Engenharia de Software pela UCB - Universidade Católica de Brasília.</h3>
+### 💫 Sobre Mim
+Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, foco minha evolução profissional na transição para a Engenharia de IA.
+
+* 🎓 **Pós-graduanda em MBA de Ciência de Dados e IA** (UCB).
+* 🚀 Cursando **Bacharelado em Engenharia de Software** (UCB).
+* 📊 Graduada em **Análise e Desenvolvimento de Sistemas** e Pós-graduada em Auditoria Fiscal.
   
-</div>
+---
+
 <div align="center">
   <a href="https://github.com/yanca-albuquerque">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yanca-albuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
 </div>
+    
+### 🛠️ Tecnologias e Habilidades
 
-## 🌟 Habilidades:
-### Avançados em:
-- **Excel**
-- **Power BI**
-
-### Intermediários em:
-- **Google Analytics**
-- **Html**
-- **Looker Studio**
-- **Python**
-- **SQL**
-
-### Básicos em:
-- **C#**
-- **Google Ads**
-- **Javascript**
-- **Java**
-- **CSS3**
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Data Science & AI</strong><br>
+      • Python (Django, Pandas, NumPy)<br>
+      • SQL (Avançado)<br>
+      • Machine Learning (Em estudo)<br>
+      • Web Scraping
+    </td>
+    <td valign="top" width="33%">
+      <strong>Business Intelligence</strong><br>
+      • Power BI (Avançado / DAX)<br>
+      • Looker Studio<br>
+      • Power Automate (Workflows)<br>
+      • Google Analytics
+    </td>
+    <td valign="top" width="33%">
+      <strong>Desenvolvimento</strong><br>
+      • Git & GitHub<br>
+      • C# / .NET / Java (Básicos)<br>
+      • HTML / CSS / JavaScript<br>
+      • Django
+    </td>
+  </tr>
+</table>
 
 ### Certificação em:
 - **SCRUM - CertiProf**
@@ -59,4 +75,3 @@
   <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href ="mailto:yanca.analyst@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
