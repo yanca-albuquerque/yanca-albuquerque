@@ -10,7 +10,9 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
 
 * 🎓 **Pós-graduanda em MBA de Ciência de Dados e IA** (UCB).
 * 🚀 Cursando **Bacharelado em Engenharia de Software** (UCB).
-* 📊 Graduada em **Análise e Desenvolvimento de Sistemas** e Pós-graduada em Auditoria Fiscal.
+* 💻 Graduada em **Análise e Desenvolvimento de Sistemas** (UCB).
+* 📊 Bacharelada em **Ciências Contábeis** (UCB) e Pós-graduada em **Auditoria Fiscal** (Unimais).
+* 💻 Extensão em **Análise de Dados** (UFMA).
   
 ---
 
