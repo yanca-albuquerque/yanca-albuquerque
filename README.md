@@ -6,7 +6,7 @@
 ## Bem vindos!
 
 ### 💫 Sobre Mim
-Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, foco minha evolução profissional na transição para a Engenharia de IA.
+Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, foco minha evolução profissional na carreira de Tecnologia.
 
 * 🎓 **Pós-graduanda em MBA de Ciência de Dados e IA** (UCB).
 * 🚀 Cursando **Bacharelado em Engenharia de Software** (UCB).
