@@ -17,8 +17,8 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
 
 <div align="center">
   <a href="https://github.com/yanca-albuquerque">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yanca-albuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=yanca-albuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
 </div>
     
 ### 🛠️ Tecnologias e Habilidades
