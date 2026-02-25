@@ -28,7 +28,7 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
     <td valign="top" width="33%">
       <strong>Data Science & AI</strong><br>
       • Python (Django, Pandas, NumPy)<br>
-      • SQL (Avançado)<br>
+      • SQL<br>
       • Machine Learning (Em estudo)<br>
       • Web Scraping
     </td>
@@ -44,7 +44,6 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
       • Git & GitHub<br>
       • C# / .NET / Java (Básicos)<br>
       • HTML / CSS / JavaScript<br>
-      • Django
     </td>
   </tr>
 </table>
