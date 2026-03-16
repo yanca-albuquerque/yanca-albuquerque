@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hey! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <strong>Data Analyst | Aspirante a AI Engineer | Estudante de Engenharia de Software</strong>
+  <strong>Data Analyst | Estudante de Engenharia de Software</strong>
 </div>
   
 ## Bem vindos!
