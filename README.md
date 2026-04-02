@@ -1,17 +1,17 @@
 <div>
-  <h1 align="center">Hey! Sou <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <strong>Data Analyst | Estudante de Engenharia de Software</strong>
+  <h1 align="center">Hey! I'm <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
+  <p align="center"><strong>Data Analyst | Software Engineering Student | AI</strong></p>
 </div>
-  
-## Bem vindos!
 
-### 💫 Sobre Mim
-Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, foco minha evolução profissional na carreira de Tecnologia.
+## Welcome!
 
-* 🚀 Cursando **Bacharelado em Engenharia de Software** (UCB).
-* 💻 Graduada em **Análise e Desenvolvimento de Sistemas** (UCB).
-* 📊 Bacharelada em **Ciências Contábeis** (UCB) e Pós-graduada em **Auditoria Fiscal** (Unimais).
-* 💻 Extensão em **Análise de Dados** (UFMA).
+### About Me 💫
+I am a Data Analyst with a solid background in Accounting and Technology. Currently, I am focusing my professional evolution on building a career in the Tech industry.
+
+* Pursuing a **Bachelor's in Software Engineering** (UCB).
+* Graduated in **Systems Analysis and Development** (UCB).
+* Bachelor's in **Accounting Sciences** (UCB) and Post-grad in **Tax Auditing** (Unimais).
+* Extension in **Data Analysis** (UFMA).
   
 ---
 
@@ -20,8 +20,10 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=yanca-albuquerque&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanca-albuquerque&layout=compact&langs_count=7&theme=radical"/>
 </div>
-    
-### 🛠️ Tecnologias e Habilidades
+
+---
+
+### Tech Stack & Skills 🛠️
 
 <table>
   <tr>
@@ -34,15 +36,15 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
     </td>
     <td valign="top" width="33%">
       <strong>Business Intelligence</strong><br>
-      • Power BI (Avançado / DAX)<br>
+      • Power BI (Advanced / DAX)<br>
       • Looker Studio<br>
       • Power Automate (Workflows)<br>
       • Google Analytics
     </td>
     <td valign="top" width="33%">
-      <strong>Desenvolvimento</strong><br>
+      <strong>Development</strong><br>
       • Git & GitHub<br>
-      • C# / .NET / Java (Básicos)<br>
+      • C# / .NET / Java (Basics)<br>
       • HTML / CSS / JavaScript<br>
     </td>
   </tr>
@@ -60,13 +62,29 @@ Sou Analista de Dados com background em Contabilidade e Tecnologia. Atualmente, 
   <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
 </div>
 
-### Certificação em:
+---
+
+### Certifications:
 - **SCRUM - CertiProf**
 - **White Belt - FM2S**
 - **Yellow Belt - FM2S**
-  
+
+---
+
+### Contributions 🐍
+
 <div align="center">
-  <h2 align="center">Para orçamentos, dúvidas ou sugestões, entre em contato 📞</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanca-albuquerque/yanca-albuquerque/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanca-albuquerque/yanca-albuquerque/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/yanca-albuquerque/yanca-albuquerque/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <h2 align="center">Let's connect! For quotes, questions, or suggestions, feel free to reach out 📞</h2>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
