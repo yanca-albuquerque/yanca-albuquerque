@@ -31,7 +31,7 @@ I am a Data Analyst with a solid background in Accounting and Technology. Curren
       <strong>Data Science & AI</strong><br>
       • Python (Django, Pandas, NumPy)<br>
       • SQL<br>
-      • Machine Learning (Em estudo)<br>
+      • Machine Learning<br>
       • Web Scraping
     </td>
     <td valign="top" width="33%">
