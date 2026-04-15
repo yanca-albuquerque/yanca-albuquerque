@@ -33,12 +33,14 @@ I am a Data Analyst with a solid background in Accounting and Technology. Curren
       • SQL<br>
       • Machine Learning<br>
       • Web Scraping
+      • Ollama
     </td>
     <td valign="top" width="33%">
       <strong>Business Intelligence</strong><br>
       • Power BI (Advanced / DAX)<br>
       • Looker Studio<br>
       • Power Automate (Workflows)<br>
+      • Power Apps
       • Google Analytics
     </td>
     <td valign="top" width="33%">
