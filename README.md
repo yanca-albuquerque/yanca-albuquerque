@@ -8,6 +8,7 @@
 ### About Me 💫
 I am a Data Analyst with a solid background in Accounting and Technology. Currently, I am focusing my professional evolution on building a career in the Tech industry.
 
+* Pursuing a **Post-grad in Machine Learning** (IESB).
 * Pursuing a **Bachelor's in Software Engineering** (UCB).
 * Graduated in **Systems Analysis and Development** (UCB).
 * Bachelor's in **Accounting Sciences** (UCB) and Post-grad in **Tax Auditing** (Unimais).
@@ -32,16 +33,17 @@ I am a Data Analyst with a solid background in Accounting and Technology. Curren
       • Python (Django, Pandas, NumPy)<br>
       • SQL<br>
       • Machine Learning<br>
-      • Web Scraping
+      • Web Scraping<br>
       • Ollama
     </td>
     <td valign="top" width="33%">
       <strong>Business Intelligence</strong><br>
       • Power BI (Advanced / DAX)<br>
-      • Looker Studio<br>
-      • Power Automate (Workflows)<br>
-      • Power Apps
-      • Google Analytics
+      • Power Automate<br>
+      • n8n<br>
+      • Power Apps<br>
+      • Google Analytics<br>
+      • Looker Studio
     </td>
     <td valign="top" width="33%">
       <strong>Development</strong><br>
@@ -52,16 +54,18 @@ I am a Data Analyst with a solid background in Accounting and Technology. Curren
   </tr>
 </table>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="DJANGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgre" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
 </div>
 
 ---
