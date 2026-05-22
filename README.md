@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hey! I'm <a href="https://www.linkedin.com/in/yanca-albuquerque-s9/"><i>Yanca Albuquerque</i></a> 🖖</h1>
-  <p align="center"><strong>Data Analyst | Software Engineering Student | AI</strong></p>
+  <p align="center"><strong>Data Analyst | BI Analyst | Software Engineering Student | AI</strong></p>
 </div>
 
 ## Welcome!
