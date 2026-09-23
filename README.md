@@ -5,7 +5,7 @@
 
 ## Welcome!
 
-### About Me 💫
+### About Me 
 I am a Data Analyst with a solid background in Accounting and Technology. Currently, I am focusing my professional evolution on building a career in the Tech industry.
 
 * Pursuing a **Post-grad in Machine Learning** (IESB).
@@ -77,7 +77,7 @@ I am a Data Analyst with a solid background in Accounting and Technology. Curren
 
 ---
 
-### Contributions 🐍
+### Contributions
 
 <div align="center">
   <picture>
