@@ -8,7 +8,7 @@
 ### About Me 
 I am a Data Analyst with a solid background in Accounting and Technology. Currently, I am focusing my professional evolution on building a career in the Tech industry.
 
-* Pursuing a **Post-grad in Machine Learning** (IESB).
+* Post-grad in **Machine Learning** (IESB).
 * Pursuing a **Bachelor's in Software Engineering** (UCB).
 * Graduated in **Systems Analysis and Development** (UCB).
 * Bachelor's in **Accounting Sciences** (UCB) and Post-grad in **Tax Auditing** (Unimais).
